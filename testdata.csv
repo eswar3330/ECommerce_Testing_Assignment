@@ -1,9 +1,0 @@
-firstName,lastName,email,telephone,company,address1,city,country,zone,postcode,password
-John,Doe,john.doe.test@example.com,+1234567890,Acme Corp,123 Main Street,New York,United States,New York,10001,SecurePass123!
-Jane,Smith,jane.smith.test@example.com,+1987654321,Tech Solutions,456 Oak Avenue,Los Angeles,United States,California,90210,MyPassword456@
-Michael,Johnson,michael.j.test@example.com,+1555123456,Digital Innovations,789 Pine Road,Chicago,United States,Illinois,60601,TestPass789#
-Sarah,Williams,sarah.williams.test@example.com,+1444987654,Global Systems,321 Elm Street,Houston,United States,Texas,77001,Pass123Word$
-David,Brown,david.brown.test@example.com,+1333456789,Future Tech,654 Maple Drive,Phoenix,United States,Arizona,85001,SecretCode456%
-Emily,Davis,emily.davis.test@example.com,+1222789456,Smart Solutions,987 Cedar Lane,Philadelphia,United States,Pennsylvania,19101,Password789^
-Robert,Miller,robert.miller.test@example.com,+1111654321,Innovation Hub,147 Birch Avenue,San Antonio,United States,Texas,78201,TestCode123&
-Lisa,Wilson,lisa.wilson.test@example.com,+1666321987,Tech Dynamics,258 Spruce Street,San Diego,United States,California,92101,MySecret456*
